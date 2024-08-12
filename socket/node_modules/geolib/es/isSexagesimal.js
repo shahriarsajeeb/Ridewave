@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.default=void 0;var _constants=require("./constants");var isSexagesimal=function isSexagesimal(value){return _constants.sexagesimalPattern.test(value.toString().trim())};var _default=isSexagesimal;exports.default=_default;

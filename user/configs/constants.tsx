@@ -21,3 +21,5 @@ export const slides = [
       "Now enjoy your trip, pay your driver after reaching the destination!",
   },
 ];
+
+export const ws = new WebSocket("ws://192.168.1.2:8080");

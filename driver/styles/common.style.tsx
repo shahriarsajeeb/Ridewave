@@ -25,9 +25,9 @@ const commonStyles = StyleSheet.create({
   },
   extraBold: {
     fontFamily: appFonts.semiBold,
-    fontSize: fontSizes.FONT19,
+    fontSize: fontSizes.FONT20,
     color: 'white',
-    fontWeight: '500',
+    fontWeight: '600',
   },
   mediumTextBlack12: {
     fontWeight: '400',

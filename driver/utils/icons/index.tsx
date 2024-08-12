@@ -86,4 +86,6 @@ export * from '../../assets/icons/close';
 export * from '../../assets/icons/forword';
 export * from '../../assets/icons/coin';
 export * from '../../assets/icons/fillClock';
-export * from '../../assets/icons/coins'
+export * from '../../assets/icons/coins';
+export * from '../../assets/icons/smartCar';
+export * from '../../assets/icons/smartCard';

@@ -12,8 +12,8 @@ export function Gps({
 }) {
   return (
     <Svg
-      width={width || '20'}
-      height={height || '20'}
+      width={width || '22'}
+      height={height || '22'}
       viewBox="0 0 20 20"
       fill="none">
       <Path
